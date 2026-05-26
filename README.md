@@ -2,10 +2,30 @@
 
 I'm Roxana, a data analyst based in Germany.
 
-I analyse and 
+I collect, clean and analyze data, aiding organizations in the decision-making process.
 
-Tools I work with: SQL, Excel, Tableau, Python
+Currently engaged in NGO data projects via CorrelAid.
 
+
+ 🧰 Tools & Tech:
+ -
+-  SQL
+-  Excel
+-  Tableau
+-  Python(Pandas, Matplot)
+-  Azure
+-  AWS
+ 	
+
+⚡ A Bit About Me:	 
+-
+
+
+-  discovered the data analytics field as I was managing a café in Berlin during the pandemic and I was hooked
+-  I'm naturally curious
+-  Love a good cup of filter coffee
+-  Have an interest in trading futures markets
+-  Cats are the best!
 <!--
 **runcanroxana-droid/runcanroxana-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
